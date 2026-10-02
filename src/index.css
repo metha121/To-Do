@@ -1,6 +1,7 @@
 @import "tailwindcss";
 
 :root {
+  color-scheme: light dark;
   --bg: #f1f5f9; --card: #ffffff; --text: #0f172a; --muted: #64748b;
   --border: #e2e8f0; --soft: #f8fafc; --accent: #4f46e5;
   --shadow: 0 1px 3px rgba(15,23,42,.08), 0 4px 14px rgba(15,23,42,.06);
